@@ -1,4 +1,4 @@
-# Solution for HackerRank python intergers come in all sizes 
+# Solution for HackerRank python whats you name 
 
 __autor__ = 'Saimadhu Polamuri'
 __website__ = 'www.dataaspirant.com'
